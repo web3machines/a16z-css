@@ -13,7 +13,7 @@ In partnership with TechCrunch, a new course module is being released every week
 |----|-----------------------------------------------------|-------------|-----|-----|
 | 01 | Crypto Networks and Why They Matter                 | Chris Dixon                     | [Video](https://a16z.com/crypto-startup-school/#modal-video-1) | [Deck](decks/Chris_Dixon-What_Are_Blockchains_And_What_Are_They_Good_For.pdf) |
 | 02 | Blockchain Primitives: Cryptography and Consensus   | Dan Boneh                       | [Video](https://a16z.com/crypto-startup-school/#modal-video-2) | [Deck](decks/Dan_Boneh-Blockchain_Primitives.pdf) |
-| 03 | Setting Up and Scaling a Crypto Company             | Brian Armstrong                 | [Video](https://a16z.com/crypto-startup-school/#modal-video-3) | Deck |
+| 03 | Setting Up and Scaling a Crypto Company             | Brian Armstrong                 | Video | Deck |
 | 04 | Applications: Today & 2025                          | Balaji Srinivasan               | Video | Deck |
 | 05 | Opportunities for Crypto in Gaming                  | Josh Williams                   | Video | Deck |
 | 06 | Business Models and Value Capture                   | Ali Yahya                       | Video | Deck |
