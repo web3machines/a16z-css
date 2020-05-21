@@ -27,3 +27,6 @@ In partnership with TechCrunch, a new course module is being released every week
 | 14 | Fundraising                                         | Jesse Walden                    | Video | Deck |
 
 ***
+
+Reference: https://a16z.com/crypto-startup-school/
+***
